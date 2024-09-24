@@ -1,0 +1,81 @@
+.navbarall{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    padding-left: 30px;
+   
+}
+
+ul{
+    list-style: none;
+    padding-top: 10px;
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+nav{
+    background-color: black;
+    color: white;
+}
+
+h3{
+    padding-top: 5px;
+    color: white;
+}
+
+span{
+    color: orange;
+}
+
+.First{
+    background-image: url("new-york-city-financial-district-with-clouds.jpg");
+    background-size: 100% 100%;
+    width: 100%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-right: 30px;
+    display: flex;
+    flex-direction: rowx;
+}
+
+.FLHS{
+    padding-top: 70px;
+    padding-left: 50px;
+    padding-bottom: 70px;
+
+}
+
+.BT{
+    background-color: orange;
+    color: white;
+}
+
+.forma{
+    background-color: white;
+    padding: 30px;
+    margin-right: 20px;
+    
+}
+
+.Secound{
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+    height: 300px;
+}
+.BTT{
+    display: flex;
+    flex-direction: column;
+}
+.BTTD{
+   width: 100px;
+   height: 100%;
+   border-radius: 0;
+}
+.tabs{
+    margin:auto;
+}
+
